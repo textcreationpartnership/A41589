@@ -1,0 +1,738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Michaels Church in Cambridge, on the 26th of July, 1685 being appointed the day of publick thanksgiving for His Majesties late victory over the rebel / by William Gostwicke ...</title>
+            <author>Gostwyke, William, 1650-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41589</idno>
+            <idno type="STC">Wing G1323</idno>
+            <idno type="STC">ESTC R31728</idno>
+            <idno type="EEBO-CITATION">12248723</idno>
+            <idno type="OCLC">ocm 12248723</idno>
+            <idno type="VID">57039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Michaels Church in Cambridge, on the 26th of July, 1685 being appointed the day of publick thanksgiving for His Majesties late victory over the rebel / by William Gostwicke ...</title>
+                  <author>Gostwyke, William, 1650-1703.</author>
+               </titleStmt>
+               <extent>[2], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hames ... and are to be sold by H. Dickinson ... and Walter Davis ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print showthrough.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Thanksgiving Day addresses.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57039:1" rendition="simple:additions"/>
+            <p>A
+SERMON
+Preached at
+St. <hi>Michaels</hi> Church in CAMBRIDGE,
+on the 26<hi rend="sup">th</hi> of <hi>J<g ref="char:V">Ʋ</g>LY 1685.</hi>
+Being appointed the DAY of
+Publick Thankſgiving
+FOR
+HIS MAJESTIES
+late VICTORY over the Rebels.</p>
+            <p>By WILLIAM GOSTWYKE
+Fellow of <hi>Trinity College.</hi>
+            </p>
+            <p>
+               <hi>CAMBRIDGE,</hi>
+Printed by <hi>John Hayes</hi> Printer to the Univerſity.
+And are to be ſold by <hi>H. Dickinſon</hi> Bookſel<g ref="char:EOLhyphen"/>ler
+there, and by <hi>Walter Davis</hi> in <hi>A<g ref="char:EOLhyphen"/>men-Corner.
+London. 1685.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:57039:2"/>
+            <pb n="1" facs="tcp:57039:2"/>
+            <head>A
+SERMON
+Preached at
+S<hi rend="sup">t</hi> Michaels Church in Cambridge,
+on the 26<hi rend="sup">th</hi> of July 1685.</head>
+            <epigraph>
+               <bibl>Prov. 11. 21.</bibl>
+               <q>Though hand joyn in hand, the Wick<g ref="char:EOLhyphen"/>ed
+ſhall not be <g ref="char:V">Ʋ</g>npuniſhed.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Wiſdom of <hi>Solomon</hi>
+though it was much in<g ref="char:EOLhyphen"/>gaged
+in the contempla<g ref="char:EOLhyphen"/>tion
+of natural things, yet ſince it
+was obtained of God for the better
+government of that People that
+was committed to his charge, can
+<pb n="2" facs="tcp:57039:3"/>
+never be ſuppoſed to have been
+more ſignall in any point than in
+Politicall Obſervations. He as a
+King well underſtood the Duty
+of his Place, the Power that was
+repoſed in him, and the Obedience
+that was required of them whom
+God had placed under his Com<g ref="char:EOLhyphen"/>mand:
+He knew the things that
+contributed to the happineſs of a
+Kingdom, and what were the moſt
+likely means either to eſtabliſh, or
+ſhake his Throne, and therefore in
+the Words before us forewarns his
+Subjects againſt Popular Tumults
+and Inſurrections, ſhews them the
+danger that there was, though they
+were many, and He but One, of
+entring into Leagues and Aſſociati<g ref="char:EOLhyphen"/>ons
+againſt their King. But if the
+Jews gave ear to this as the inſtru<g ref="char:EOLhyphen"/>ction
+of a wiſe and prudent Gover<g ref="char:EOLhyphen"/>nour,
+<pb n="3" facs="tcp:57039:3"/>
+it recommends it ſelf to us
+with a more preſſing obligation of
+being regiſtred among thoſe Truths
+which we acknowledge to proceed
+from God; and from that ſtamp
+of the Divine Authority impreſ<g ref="char:EOLhyphen"/>ſed
+upon it, we may reap this ad<g ref="char:EOLhyphen"/>vantage,
+That though the World
+preſents us only with a proſpect
+of our danger from the Heat and
+Fury of an Audacious People, the
+Church (that always was the re<g ref="char:EOLhyphen"/>fuge
+of the Godly) ſuggeſts unto
+us more comfortable meditations of
+Safety and Deliverance. Here we
+have ancient and undoubted Mo<g ref="char:EOLhyphen"/>numents
+of Gods protection of his
+People, and out of them this Ma<g ref="char:EOLhyphen"/>xim
+drawn by the obſervation of the
+Wiſeſt Man, That Inſurrections
+of wicked doers cannot be proſpe<g ref="char:EOLhyphen"/>rous,
+that neither Strength nor Mul<g ref="char:EOLhyphen"/>titudes
+<pb n="4" facs="tcp:57039:4"/>
+can render their Attempts
+ſucceſsfull, or ſecure them from
+Defeat, but <hi>though hand joyn in hand,</hi>
+though there be Numbers combi<g ref="char:EOLhyphen"/>ned
+together, yet ſhall they not e<g ref="char:EOLhyphen"/>ſcape
+Gods righteous judgment, or
+go away unpuniſhed.</p>
+            <p>The <hi>joyning</hi> of <hi>hands</hi> hath always
+been the ſymbol and token of friend<g ref="char:EOLhyphen"/>ſhip,
+and an engagement of mu<g ref="char:EOLhyphen"/>tual
+Help and Aſſiſtance; but what
+is friendſhip amongſt good and ho<g ref="char:EOLhyphen"/>neſt
+Men, is amongſt wicked Peo<g ref="char:EOLhyphen"/>ple
+conſpiracie in iniquity, always
+deſigned to the miſchief of more
+Righteous perſons than themſelves,
+and therefore bad in whatſoever
+ſort of men are engaged in it; but
+if it be againſt their Prince, againſt
+their Laws and Government, then
+it amounts to Treaſon and Rebelli<g ref="char:EOLhyphen"/>on,
+the worſt of Crimes. So that
+<pb n="5" facs="tcp:57039:4"/>
+in Treating of theſe Words I ſhall
+ſhew you</p>
+            <p>
+               <hi>Firſt,</hi> The Heinouſneſs of this
+Sin, when <hi>wicked</hi> Men <hi>joyn hand in
+hand</hi> and combine together, and</p>
+            <p>
+               <hi>Secondly,</hi> Preſent you with ſome
+Reaſons whence you may con<g ref="char:EOLhyphen"/>clude,
+<hi>they ſhall not be unpuniſhed.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Of the Heinouſneſs of this
+Sin, which is ſo hatefull both to
+God and Man, as it hath been ad<g ref="char:EOLhyphen"/>judged
+in both the Courts of Hea<g ref="char:EOLhyphen"/>ven
+and Earth, to be capitall above
+all other. How highly God de<g ref="char:EOLhyphen"/>teſts
+it, we may hear him ſpeaking
+by the mouth of one of his Pro<g ref="char:EOLhyphen"/>phets.
+<hi>1 Sam. 15. 23. Rebellion is as
+the ſin of witchcraft, and Stubborneſs
+is as iniquity and idolatry. Witchcraft</hi>
+is nothing leſs then a renouncing
+<pb n="6" facs="tcp:57039:5"/>
+God, and entring into a Solemn
+League and Covenant with his grea<g ref="char:EOLhyphen"/>teſt
+enemy the devil: <hi>Idolatry</hi> is the
+forſaking Him to whom we owe
+the higheſt Worſhip and Allegi<g ref="char:EOLhyphen"/>ance,
+and paying a Devotion to
+them that are not Gods; whom we
+unjuſtly ſet up over us, attributing
+an Imaginary power to them, who
+are not able either to ſecure them<g ref="char:EOLhyphen"/>ſelves,
+or give any ſuccour or pro<g ref="char:EOLhyphen"/>tection:
+and then how nearly is
+Rebellion joyned, how fitly to be
+compared with either of theſe, is
+eaſie to be obſerved in all its Pro<g ref="char:EOLhyphen"/>ceedings.
+For Rebels either re<g ref="char:EOLhyphen"/>nounce
+their Allegiance to their
+natural Prince, who is and ſhould
+be in Gods ſtead over them; and
+joyn themſelves to ſome that is his
+Enemy, as in the caſe of Witch<g ref="char:EOLhyphen"/>craft,
+or elſe they ſet up Heads of
+<pb n="7" facs="tcp:57039:5"/>
+their own, and pay their worſhip
+to the Works of their own hands,
+making them Rulers whom they
+know to be no Such, and ſtand in
+fear, and reverence of a power of
+their own Creating; which is but
+too conformable to the notion of I<g ref="char:EOLhyphen"/>dolatry:
+then like the fooliſh <hi>Iſra<g ref="char:EOLhyphen"/>elites,</hi>
+though they knew it was
+their Prieſt that made the Molten
+Calf, at their own Charges, and
+the expence of their own Gold, and
+that but Yeſterday, yet to ſuch I<g ref="char:EOLhyphen"/>dols
+muſt be aſcribed the glory of
+the nobleſt Actions; Theſe muſt
+become the Workers of a bleſſed
+Reformation; 'Tis by their gui<g ref="char:EOLhyphen"/>dance
+People muſt be brought from
+ignorance and Superſtition, to the
+Light and Truth of the Goſpel;
+even according to the letter of the
+old Song,<note place="margin">Exod. 32. 4.</note> 
+               <hi>Theſe are thy Gods O Iſ<g ref="char:EOLhyphen"/>rael
+<pb n="8" facs="tcp:57039:6"/>
+that brought thee up out of the
+land of Egypt.</hi>
+            </p>
+            <p>'Tis by this Name the Idolatry
+of the <hi>Iſraelites</hi> is often branded,
+of which God thus complains, <hi>E<g ref="char:EOLhyphen"/>zek.
+20. 8. They rebelled againſt me,
+and would not hearken unto me;</hi> and
+wherein this Rebellion did conſiſt
+he proceeds to illuſtrate, in that
+<hi>they did not every man caſt away the
+abominations of their eyes, neither
+did they forſake the Idols of Egypt.</hi>
+And in the 1<hi rend="sup">ſt</hi> of <hi>Iſai. v. 2.</hi> he is
+introduced proclaiming of it to all
+the World, <hi>Hear O Heavens and
+give ear O Earth: for the Lord hath
+ſpoken; I have nouriſhed and brought
+up Children, and they have Rebelled
+againſt me.</hi> So great a Crime as
+this not deſerving to be put up in
+ſilence, or whiſpered in the ear,
+<pb n="9" facs="tcp:57039:6"/>
+nay the houſe-tops were not high
+enough to proclaim it from, but
+the whole Creation is made to
+ring with the loud Infamy of ſo
+great a Wickedneſs. And how
+deteſtable it is amongſt Men, the
+concurrent practice of all Nations
+will atteſt, ſo tender do their Laws
+declare them of the Perſon of their
+Prince, that 'tis eſteemed Sacred;
+and they have Scripture too to
+warrant that Reſpect, which
+hath ſaid of Prince <hi>that they are
+Gods.</hi>
+               <note place="margin">Pſal. 82. 6.</note>
+            </p>
+            <p>And our own Laws have ſo
+provided for Them and their Se<g ref="char:EOLhyphen"/>curity
+from any Actual Violence,
+that they have made it Capitall
+only to Meditate, and Deſign it;
+that according to the counſel of
+the Preacher, <hi>Eccl. 10. 20.</hi> we
+<pb n="10" facs="tcp:57039:7"/>
+ſhould not <hi>curſe the King, no not
+in our thought, nor the Rich in our
+bedchamber,</hi> for fear of ſome ex<g ref="char:EOLhyphen"/>traordinary
+providence that ſhould
+diſcover our Malice; <hi>leſt a bird
+of the air ſhould carry the voice,
+or that which hath wings ſhould tell
+the matter.</hi>
+            </p>
+            <p>But not to trouble you any far<g ref="char:EOLhyphen"/>ther
+with the Heinouſneſs of this
+Sin, which all good Chriſtians do
+acknowledge and heartily deteſt,
+I ſhall only deſire you to conſider
+whence they that practiſe it took
+their firſt pattern; 'Twas Satan
+was the ringleader of the Rebels,
+who ventured to level his Ambi<g ref="char:EOLhyphen"/>tious
+thoughts at the Majeſty of
+Almighty God, and taught his
+Followers by imitating his Wick<g ref="char:EOLhyphen"/>edneſs,
+to exerciſe the patience,
+<pb n="11" facs="tcp:57039:7"/>
+and diſturb the Happineſs of Gods
+Vicegerents upon earth: ſo that
+we may ſay of them in our Savi<g ref="char:EOLhyphen"/>ours
+words, <hi>Joh. 8. 44. They are
+of their father the Devil, and the
+luſt of their father they will do.</hi> He
+was a Rebel from the beginning,
+and is ſtill ſuch, while he promotes
+his Kingdom by theſe his Inſtru<g ref="char:EOLhyphen"/>ments
+and Aſſiſtants; who of all
+Men are moſt likely to be rewar<g ref="char:EOLhyphen"/>ded
+with a conſiderable portion in
+it; beſide ſome other puniſhment
+which you may be aſſured will
+overtake them, as I propounded
+for the Second part of my Diſ<g ref="char:EOLhyphen"/>courſe,
+if you will conſider</p>
+            <p>
+               <hi>Firſt,</hi> Who it is that Wicked
+men engage againſt in their Re<g ref="char:EOLhyphen"/>bellion,
+and that is not only Man
+but God: for as St. <hi>Paul</hi> ſaith,
+<pb n="12" facs="tcp:57039:8"/>
+               <hi>Rom. 13. 1, 2. There is no Power but
+of God, the Powers that be are or<g ref="char:EOLhyphen"/>dained
+of God. Whoſoever there<g ref="char:EOLhyphen"/>fore
+reſiſteth the Power, reſiſteth the
+Ordinance of God;</hi> and what will
+be the Effect thereof he further
+declareth, <hi>they that reſiſt ſhall re<g ref="char:EOLhyphen"/>ceive
+to themſelves damnation;</hi> which
+as without repentance they are a<g ref="char:EOLhyphen"/>ſcertained
+of;<note place="margin">Heb. 10. 31.</note> ſo <hi>fearfull a thing
+it is to fall into the hands of the li<g ref="char:EOLhyphen"/>ving
+God:</hi> yet that they may not
+wholly ſeem to be put off to a
+Future puniſhment, which Men
+of their principles may poſſibly give
+no belief to,</p>
+            <p>We may conceive in the ſecond
+place the Wrath of a King (which
+without <hi>Solomons</hi> telling them they
+well enough know to be Dread<g ref="char:EOLhyphen"/>full
+as the <hi>Meſſengers of Death)</hi>
+               <pb n="13" facs="tcp:57039:8"/>
+may torment them with the fear
+of approaching Juſtice;<note place="margin">Prov. 16. 14.</note> which
+by certain though perhaps ſlow
+degrees will go on to overtake
+them.</p>
+            <p>For can we think that God who
+hath made ſo good proviſion for the
+Lives of heathen Princes, that com<g ref="char:EOLhyphen"/>manded
+all men to pay Obedience,
+even to the Enemies and Perſecu<g ref="char:EOLhyphen"/>tors
+of the Church of his Son
+(for ſuch the Powers were, the
+Emperours that then ruled when
+St. <hi>Paul</hi> wrote his Epiſtles) and
+will he leave the <hi>Nurſing Fa<g ref="char:EOLhyphen"/>thers</hi>
+of his people, thoſe that re<g ref="char:EOLhyphen"/>ſemble
+Himſelf in the ſimilitude of
+their Love and Tenderneſs to his
+Flock, as well as in the Power
+they have received from him?
+Can we, I ſay, imagine that ſuch
+<pb n="14" facs="tcp:57039:9"/>
+ſhould be left deſtitute of his
+Immediate protection? who be<g ref="char:EOLhyphen"/>ing
+as they ought to be, <hi>not a
+Terrour to Good Works</hi> muſt needs
+be ſuch to the Evil;<note place="margin">Rom. 13. 4</note> and as they
+are ordained <hi>Gods Miniſters for
+good to us,</hi>
+               <note place="margin">—5.</note> ſo are they in like man<g ref="char:EOLhyphen"/>ner
+by him appointed <hi>Revengrs to
+execute wrath upon him that doth e<g ref="char:EOLhyphen"/>vil:</hi>
+who having the Juſtice of
+the Cauſe on their ſide, fight to
+maintain Gods right as well as their
+own, have a good Conſcience a<g ref="char:EOLhyphen"/>nimating
+them within, have the
+Hearts and Hands of all that are
+Loyall, the Prayers of all that are
+Devout to aſſiſt them. Such For<g ref="char:EOLhyphen"/>ces
+are not eaſily overthrown, by
+Men whoſe conſciences fly in their
+faces; whoſe guilt conveys more
+fear into their Hearts, than their
+Deſpair of pardon (whence
+<pb n="15" facs="tcp:57039:9"/>
+commonly their Rage proceeds)
+can ſupply them with of valour
+and reſolution.</p>
+            <p>But it is true that Temporal pu<g ref="char:EOLhyphen"/>niſhment
+hath not always been
+allotted to Rebels and Traytors;
+ſometimes their Arms have pro<g ref="char:EOLhyphen"/>ſpered
+in deſpite of Juſtice, and
+their Impiety hath been reward<g ref="char:EOLhyphen"/>ed
+with Victory and Succeſs; yet
+we have known ſuch Men before
+this time who have found a Turn
+of their good Fortune, and by
+their Infamous and Deſerved
+Deaths have left a Teſtimony to
+the World, that Rebellion though
+it may be ſucceſsfull, is not al<g ref="char:EOLhyphen"/>ways
+long-liv'd; and if ſuch wic<g ref="char:EOLhyphen"/>ked
+Courſes may at ſome time
+raiſe a man High, yet they never
+put him out of danger or fear
+<pb n="16" facs="tcp:57039:10"/>
+of Falling: and ſuch a Mans pu<g ref="char:EOLhyphen"/>niſhment
+cannot always be defer<g ref="char:EOLhyphen"/>red
+which Juſtice longs to inflict
+on him, either by the open force
+and power of his Prince; or the
+Secret Treachery of his own Par<g ref="char:EOLhyphen"/>ty.
+For who can repoſe ſuffici<g ref="char:EOLhyphen"/>ent
+Confidence in them whom
+their Allegiance could not contain
+within the bounds of Loyalty?
+And there are Examples to be
+found, of Men that have bought
+their peace with the Lives of their
+Confederates, and by giving up
+their Fellows Heads, made com<g ref="char:EOLhyphen"/>poſition
+for their Own. Which
+we may be the rather induced to
+beleeve, if</p>
+            <p>
+               <hi>Thirdly,</hi> We conſider what bad
+entertainment Rebellious practices
+have hitherto found in the world;
+<pb n="17" facs="tcp:57039:10"/>
+in that he that has once dared to
+violate the Majeſty of Kings, hath
+ſeldome found all the <hi>Hands</hi> that
+he could <hi>joyn</hi> together ſufficient
+to uphold an Uſurped Throne;
+and hath taught others to bear no
+more reſpect to himſelf than he
+hath ſhewed, and given them be<g ref="char:EOLhyphen"/>ſides,
+a pretence to diſpoſſeſs him
+for Unjuſtly Invading anothers
+Right: which being once taken
+away, and Power become the
+Rule of Juſtice; there have often
+riſen up a Sort of Men preten<g ref="char:EOLhyphen"/>ding
+to it, who never failed to
+give one another their Deſerved
+puniſhment.</p>
+            <p>I ſhall not mention any thing
+in Humane Writers to illuſtrate
+this, but confine my ſelf wholly
+to Divine Authority; eſpecially
+<pb n="18" facs="tcp:57039:11"/>
+becauſe the Spirit of Rebellion
+that any time within theſe late
+Years hath been Diſturbing the
+peace and happineſs of theſe King<g ref="char:EOLhyphen"/>doms,
+hath always made pretences
+to Religion, wherewith it ſought
+to colour and maintain its Wick<g ref="char:EOLhyphen"/>edneſs.</p>
+            <p>
+               <hi>Abimelech</hi> the ſon of <hi>Gideon</hi> was
+an early Uſurper of the Liberties of
+his people,<note place="margin">Judg. 9.</note> and ſtrengthened him<g ref="char:EOLhyphen"/>ſelf
+by the Confederacy of the
+<hi>Shechemites,</hi> and the murder of Se<g ref="char:EOLhyphen"/>venty
+of his Brethren; yet after
+three years time, himſelf became a
+means to puniſh thoſe his Inſtru<g ref="char:EOLhyphen"/>ments
+in wickedneſs, with the de<g ref="char:EOLhyphen"/>ſtruction
+of all their City, for their
+Rebellion againſt him; and He re<g ref="char:EOLhyphen"/>ceived
+his puniſhment by the hand
+of a Woman, God making uſe of
+<pb n="19" facs="tcp:57039:11"/>
+the weakneſs of that Sex to de<g ref="char:EOLhyphen"/>ſtroy
+him that had many Hands and
+a great Army joyned with him.</p>
+            <p>'Twas the conſideration of ſome
+ſuch Divine vengeance to enſue,
+that reſtrained <hi>Davids</hi> hand from
+ſlaying <hi>Saul,</hi>
+               <note place="margin">1 Sam. 24.</note> whom though his
+bitter Enemy, and at that very time
+ſeeking his Life, in that he was
+the Lords Anointed he would not
+kill, though he had a notable op<g ref="char:EOLhyphen"/>portunity,
+though he was inſtiga<g ref="char:EOLhyphen"/>ted
+by his Servants with the re<g ref="char:EOLhyphen"/>membrance
+of the promiſe of the
+Lord,<note place="margin">1 Sam. 26.</note> 
+               <hi>to deliver his Enemy into his
+hand, that he might do to him as it
+ſhould ſeem good unto him.</hi> Where<g ref="char:EOLhyphen"/>as
+could Opportunity have tempt<g ref="char:EOLhyphen"/>ed
+him to a Rebellious thought, or
+his Confidence in the Strength
+and Valour of his Aſſiſtants have
+<pb n="20" facs="tcp:57039:12"/>
+wrought him to an Action which
+he acknowledged no man could
+do and be Guiltleſs, he might as
+eaſily have cut off his Head, as the
+Skirt of his Robe, and taken away
+his Life, as the Spear which was
+ſet to defend it. But 'tis no won<g ref="char:EOLhyphen"/>der
+if a righteous Man would not
+venture on ſuch a piece of Wick<g ref="char:EOLhyphen"/>edneſs
+(though with ſome reaſon
+he might have promiſed himſelf
+Freedom from being puniſhed for
+it by any Humane means, being
+ſo well accompanied with ſuch
+Valiant Men ſo ready to defend
+the Fact) when even a Woman
+(and ſhe too one of the wickedeſt
+upon record) had ſo much Na<g ref="char:EOLhyphen"/>turall
+Religion in her, as to think
+no Condition, how great ſoever,
+ſafe and exempt from Vengeance
+if it were purchaſed by Rebellion:
+<pb n="21" facs="tcp:57039:12"/>
+'twas <hi>Jezebel</hi> I mean, who ſeeing
+<hi>Johu</hi> entring the Palace after he had
+ſlain her Son,<note place="margin">2 Kings 9. 31.</note> his King, <hi>Jehoram,</hi>
+chargeth him with Rebellion, and
+by a late example denounceth the
+like Vengeance to him, that <hi>Zimri
+had who ſlew his maſter.</hi> So much
+a Woman that ſlighted juſtice in
+other matters, thought it not poſſi<g ref="char:EOLhyphen"/>ble
+to be avoided when ſuch a hor<g ref="char:EOLhyphen"/>rid
+Crime called out to Heaven
+for it.</p>
+            <p>And thus indeed it uſually has
+fared with them that think to force
+their paſſage to a Crown, moſt
+commonly they have periſhed in
+the Attempt; or if they have poſ<g ref="char:EOLhyphen"/>ſeſſed
+themſelves of their Deſires,
+yet then, not all the Strength that
+they could make, and Guards they
+ſet upon their Perſons, could ren<g ref="char:EOLhyphen"/>der
+<pb n="22" facs="tcp:57039:13"/>
+them Secure from puniſhment,
+but uſually God hath raiſed up
+ſome to pay them what they have
+deſerved, and render them the fruit
+of their own Inventions.</p>
+            <p>And if after ſo fair warning any
+that take Rebellious Courſes ſhould
+think to ſucceed better at laſt, it
+appears to me a ſign not only of
+wicked and depraved Manners,
+but of ſtupid and ſottiſh Minds;
+Can they imagine their Hands were
+ſtronger than theirs that went be<g ref="char:EOLhyphen"/>fore
+them? yet ſurely they cannot
+think to eſcape Gods juſtice, or de<g ref="char:EOLhyphen"/>liver
+themſelves out of his hand.</p>
+            <p>What ſhall we think, but that as
+ſuch Men do approve themſelves
+to be very Evil perſons, ſo have
+they in a ſpecial manner appropri<g ref="char:EOLhyphen"/>ated
+<pb n="23" facs="tcp:57039:13"/>
+to themſelves one Character
+of the Wicked uſed in Scripture,
+being Men <hi>that forget God,</hi> or have
+not known him? and that they
+have as little reaſon to pretend to
+Religion as to Loyalty, and that
+their Abſurdity is as great when
+they declare they ſtand up for Re<g ref="char:EOLhyphen"/>ligion,
+in oppoſition to the Ordi<g ref="char:EOLhyphen"/>nance
+of God, and the Directions
+of the Apoſtles, as theirs that for<g ref="char:EOLhyphen"/>merly
+pretended to maintain the
+Authority of the King, to the Ru<g ref="char:EOLhyphen"/>ine
+of his Kingdoms, and the De<g ref="char:EOLhyphen"/>ſtruction
+of his Perſon.</p>
+            <p>I hope it will be needleſs at this
+time of day to perſuade men not to
+cheat themſelves with ſuch nice Di<g ref="char:EOLhyphen"/>ſtinctions,
+which one word of
+ſound and reall Wiſdom will pre<g ref="char:EOLhyphen"/>ſently
+ſolve, and this the Wiſe man
+<pb n="24" facs="tcp:57039:14"/>
+teacheth, that you ſhould <hi>fear the
+Lord, and the King</hi> for his ſake,
+that you ſhould make your Reli<g ref="char:EOLhyphen"/>gion
+the foundation of your Loy<g ref="char:EOLhyphen"/>alty,
+<note place="margin">Prov. 24. 21, 22.</note> and <hi>not meddle with them
+that are given to change, For their
+calamity ſhall riſe ſuddenly, and who
+knoweth the ruine of them both?</hi>
+            </p>
+            <p>Now God be praiſed we do;
+and by his mercy are able to retort
+upon our Republican Party their
+own Argument drawn from Suc<g ref="char:EOLhyphen"/>ceſs,
+which when it goes along
+with the Right Side, is then indeed
+only proper to be urged as a To<g ref="char:EOLhyphen"/>ken
+of Gods Favour and Appro<g ref="char:EOLhyphen"/>bation.
+For we have ſeen the
+Counſels of Crafty men defeated,
+and the continued Deſigns that have
+been hatching ſeveral Years,
+brought to naught in a ſhort while,
+<pb n="25" facs="tcp:57039:14"/>
+the Numbers that were joyned o<g ref="char:EOLhyphen"/>verthrown
+and broken, and thoſe
+that were Expected, rendred In<g ref="char:EOLhyphen"/>capable
+to do Themſelves or the
+Kingdom more Miſchief: and
+though their Strength was formida<g ref="char:EOLhyphen"/>ble,
+and their Confederates many,
+yet when we think how they are
+brought to puniſhment, we muſt
+needs acknowledge the Truth of
+the Text, that Wicked Men can<g ref="char:EOLhyphen"/>not
+eſcape without it.</p>
+            <p>For to ſay nothing of the pri<g ref="char:EOLhyphen"/>vate
+Lives of thoſe that were the
+Leaders in the late Rebellion,
+which were ſufficient to diſcounte<g ref="char:EOLhyphen"/>nance
+their pretences to any kind
+of Religion; their open Violation
+of all Honeſty and Godlineſs,
+Plundering and Killing Men, Ra<g ref="char:EOLhyphen"/>viſhing
+Wives and Virgins, De<g ref="char:EOLhyphen"/>facing
+<pb n="26" facs="tcp:57039:15"/>
+Churches, and prophaning
+Altars, are ſufficient to ſhew their
+Character, and to cry up to Hea<g ref="char:EOLhyphen"/>ven
+for Vengeance, and make
+Gods Juſtice glorious now it is fal<g ref="char:EOLhyphen"/>len
+upon them.</p>
+            <p>And now let us lay hold of the
+Occaſion, by reflecting on Gods
+judgments upon others, to implore
+the continuance of his Mercy to our
+ſelves in this General Bleſſing; that
+God would grant the King a Long
+and Happy Reign, and ſave Him
+from the hands of all His enemies,
+whom whether it ſhall pleaſe Al<g ref="char:EOLhyphen"/>mighty
+God to clothe with ſhame
+of their Proceedings for their Con<g ref="char:EOLhyphen"/>verſion
+and Repentance; or by
+permitting them to go on in their
+own Obſtinate and Deſtructive
+Ways, to bring to their Deſer<g ref="char:EOLhyphen"/>ved
+<pb n="27" facs="tcp:57039:15"/>
+Puniſhment; yet may his
+Throne be Eſtabliſhed in Righ<g ref="char:EOLhyphen"/>teouſneſs,
+and on His Head may
+His Crown flouriſh. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
